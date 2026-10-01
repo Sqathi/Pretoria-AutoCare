@@ -116,4 +116,8 @@ Home
 ## References
 
 The following source was consulted during the research and development of the website:
-Pretoria AutoCare Detailing. (2026). Business and service information. Pretoria, South Africa.
+1. Pretoria AutoCare Detailing. (2026). Business and service information. Pretoria, South Africa.
+2. W3Schools (2026). CSS Tutorial. [Online] Available at: <https://www.w3schools.com/css/>
+3. W3Schools (2026). Responsive Web Design. [Online] Available at: <https://www.w3schools.com/css/css_rwd_intro.asp>
+4. MDN Web Docs (2026). CSS: Cascading Style Sheets. [Online] Available at: <https://developer.mozilla.org/en-US/docs/Web/CSS>
+5. MDN Web Docs (2026). Responsive design. [Online] Available at: <https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design>
