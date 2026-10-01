@@ -100,7 +100,18 @@ Home
 - Created a private GitHub repository.
 - Uploaded the initial website files to GitHub.
 
+## CHANGELOG
 
+### Part 2 - CSS Styling and Responsive Design
+
+- Added a CSS stylesheet for the Pretoria AutoCare website.
+- Added consistent typography and page layout styling.
+- Added navigation, button, form, section and footer styling.
+- Added hover effects to navigation links and buttons.
+- Added responsive design for tablet and mobile screen sizes.
+- Added responsive image sizing.
+- Added flexible layouts using Flexbox.
+- Tested all five web pages at different screen sizes.
 
 ## References
 
