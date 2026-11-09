@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Enquiry - Pretoria AutoCare Detailing</title>
+    <title>Vehicle Service Enquiry | Pretoria AutoCare</title>
+    <meta name="description" content="Submit a service enquiry to Pretoria AutoCare. Tell us about your vehicle and the automotive services you need.">
     <link rel="stylesheet" href="styles.css">
 </head>
 
@@ -37,57 +38,32 @@
             </p>
         </section>
 
-        <!-- Customer enquiry form -->
-        <form>
+        <form id="enquiryForm">
+ <!-- Customer name -->
+    <label for="name">Full Name:</label>
+    <input type="text" id="name" name="name" required>
+    <br><br>
 
-            <!-- Customer name -->
-            <label for="name">Full Name:</label>
-            <input type="text" id="name" name="name" required>
+    <!-- Customer email -->
+    <label for="email">Email Address:</label>
+    <input type="email" id="email" name="email" required>
+    <br><br>
 
-            <br><br>
+    <!-- Customer phone -->
+    <label for="phone">Phone Number:</label>
+    <input type="tel" id="phone" name="phone" required>
+    <br><br>
 
-            <!-- Customer email -->
-            <label for="email">Email Address:</label>
-            <input type="email" id="email" name="email" required>
+    <!-- Customer message -->
+    <label for="message">Your Enquiry:</label>
+    <textarea id="message" name="message" required></textarea>
+    <br><br>
 
-            <br><br>
+    <button type="submit">Submit Enquiry</button>
 
-            <!-- Customer phone -->
-            <label for="phone">Phone Number:</label>
-            <input type="tel" id="phone" name="phone" required>
+    <p id="formMessage" role="alert"></p>
 
-            <br><br>
-
-            <!-- Service selection -->
-            <label for="service">Requested Service:</label>
-            <select id="service" name="service" required>
-                <option value="">Please select a service</option>
-                <option value="exterior-wash">Exterior Wash</option>
-                <option value="interior-cleaning">Interior Cleaning</option>
-                <option value="full-detailing">Full Vehicle Detailing</option>
-                <option value="add-ons">Detailing Add-ons</option>
-            </select>
-
-            <br><br>
-
-            <!-- Preferred date -->
-            <label for="date">Preferred Date:</label>
-            <input type="date" id="date" name="date" required>
-
-            <br><br>
-
-            <!-- Customer message -->
-            <label for="message">Message:</label>
-            <br>
-            <textarea id="message" name="message" rows="5" cols="30"
-                placeholder="Tell us how we can help you."></textarea>
-
-            <br><br>
-
-            <!-- Submit button -->
-            <button type="submit">Submit Enquiry</button>
-
-        </form>
+</form>
 
     </main>
 
@@ -95,7 +71,7 @@
     <footer>
         <p>&copy; 2026 Pretoria AutoCare Detailing. All rights reserved.</p>
     </footer>
-
+<script src="js/script.js" defer></script>
 </body>
 
 </html>

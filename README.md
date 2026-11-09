@@ -121,3 +121,44 @@ The following source was consulted during the research and development of the we
 3. W3Schools (2026). Responsive Web Design. [Online] Available at: <https://www.w3schools.com/css/css_rwd_intro.asp>
 4. MDN Web Docs (2026). CSS: Cascading Style Sheets. [Online] Available at: <https://developer.mozilla.org/en-US/docs/Web/CSS>
 5. MDN Web Docs (2026). Responsive design. [Online] Available at: <https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design>
+
+Part 3 – SEO, Website Optimisation and JavaScript
+
+1. On-Page SEO
+
+* Added unique SEO title tags and meta descriptions to all five website pages.
+* Improved heading structure using appropriate HTML heading elements.
+* Added descriptive image filenames and alternative text.
+* Improved internal linking between website pages.
+
+2. Search Engine Optimisation
+
+* Created a robots.txt file to guide search engine crawlers.
+* Created a sitemap.xml file listing the website pages.
+
+3. Website Performance and Security
+
+* Added responsive image styling.
+* Improved image loading priorities.
+* Followed basic website security practices.
+
+4. JavaScript Functionality
+
+* Implemented enquiry form validation.
+* Added email and South African phone number validation.
+* Added error messages for incomplete or invalid form entries.
+* Added a successful validation message.
+
+5. Testing
+
+* Tested all five website pages.
+* Checked navigation links and images.
+* Tested enquiry form validation.
+* Checked website responsiveness.
+
+6. References
+
+* Google Search Central – SEO Starter Guide. [Online] Available at: <https://developers.google.com/search/docs/fundamentals/seo-starter-guide>
+* MDN Web Docs – HTML. [Online] Available at: <https://developer.mozilla.org/en-US/docs/Web/HTML>
+* MDN Web Docs – JavaScript. [Online] Available at:<https://developer.mozilla.org/en-US/docs/Web/JavaScript>
+* Google Search Central – Sitemaps. [Online] Available at: <https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview>
